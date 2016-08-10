@@ -1,0 +1,12 @@
+Vocabulary
+CLI: Command line interaface
+GUI: graphic user interface
+
+Commands in CLI
+Root- cd /
+move up- cd ..
+mkdir- <folder>
+touch <filename>
+
+App types
+Software   Desktop
