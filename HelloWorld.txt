@@ -12,6 +12,7 @@ git status- check
 git add- <filename> (adds to git)
 git commit -m (add descriptive message)
 git push- (uploads to Git site)
+Ctrl C- (terminates function)
 
 Tools
 Sublime Text 
