@@ -1,12 +1,25 @@
 Vocabulary
-CLI: Command line interaface
-GUI: graphic user interface
+CLI: Command line interaface- perform functions with commands
+GUI: graphic user interface- perform functions with visual aid
+Clean- added and commited Git file
 
 Commands in CLI
-Root- cd /
-move up- cd ..
-mkdir- <folder>
-touch <filename>
+cd- (change directory)
+mkdir- <folder> (makes directory)
+touch- <filename.txt>
+git init- in folder, start project
+git status- check
+git add- <filename> (adds to git)
+git commit -m (add descriptive message)
+git push- (uploads to Git site)
 
-App types
-Software   Desktop
+Tools
+Sublime Text 
+GitHub
+Git Shell
+
+Levels of knowing
+1.Knowing and understanding
+2.Teaching and reinforcing
+3.Grocking (complete understanding)
+
