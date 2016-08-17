@@ -2,6 +2,9 @@ Vocabulary
 CLI: Command line interaface- perform functions with commands
 GUI: graphic user interface- perform functions with visual aid
 Clean- added and commited Git file
+UI: User interface- layout, 
+UX: User experience- user friendly, organizied, accessability
+    make product more usable
 
 Commands in CLI
 cd- (change directory)
@@ -24,3 +27,20 @@ Levels of knowing
 2.Teaching and reinforcing
 3.Grocking (complete understanding)
 
+Markup languages
+HTML- site structure
+     current version HTMLV5
+    tags- (description) 
+    <ul> unordered list </ul>
+        <li> list item</li>
+    <ol> ordered list</ol>
+        <li> list item</li>
+    <nav></nav> 
+    <div aside> 
+        <h3>title</h3>
+        <nav>
+            <ul>
+                <il>
+                    <a href="link"></a>    
+CSS- styling
+Javascrip- functionality
