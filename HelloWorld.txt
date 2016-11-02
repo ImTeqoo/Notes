@@ -41,6 +41,11 @@ HTML- site structure
         <nav>
             <ul>
                 <il>
-                    <a href="link"></a>    
+                    <a href="link"></a>  
+margin: top, bottom, left, right
+square 3 values 
+border
+margin
+padding  
 CSS- styling
 Javascrip- functionality
